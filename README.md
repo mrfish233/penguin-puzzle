@@ -1,6 +1,6 @@
 # Penguin Puzzle — WebGL 3D Puzzle Game
 
-Computer Graphics Final Project — NTNU, 41247039S 韓欣劭
+Computer Graphics Final Project
 
 A 3D puzzle game built from scratch with WebGL2 and GLSL shaders. Guide a penguin across blocks to reach the goal block.
 
